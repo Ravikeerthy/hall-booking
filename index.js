@@ -21,7 +21,7 @@ app.get('/',(req, res)=>{
         </li>
     
         <li>
-        <h3><mark>Get:</mark> Use the endpoint to <mark>/api/hallbooking/newbooking</mark> to Book a New Room</h3>
+        <h3><mark>Post:</mark> Use the endpoint to <mark>/api/hallbooking/newbooking</mark> to Book a New Room</h3>
         </li>
     
         <li>
