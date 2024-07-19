@@ -13,7 +13,7 @@ app.get('/',(req, res)=>{
         <div>
         <ul>
         <li>
-        <h3><mark>Get:</mark> Use the endpoint to <mark>/api/hallbooking/getDetails</mark> to get the All Room Details</h3>
+        <h3><mark>Get:</mark> Use the endpoint to <span style="background-color:lightgreen">/api/hallbooking/getDetails</span> to get the All Room Details</h3>
         </li>
     
         <li>
