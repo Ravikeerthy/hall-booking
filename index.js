@@ -1,6 +1,6 @@
 import express from 'express';
 import cors from 'cors';
-import hallBookingRouter from './Router/hallBookingRouter.js'
+import hallBookingRouter from './Router/hallBooking.router.js'
 
 const app = express();
 app.use(express.json());
